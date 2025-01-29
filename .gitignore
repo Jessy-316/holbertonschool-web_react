@@ -1,5 +1,14 @@
 /TypeScript/task_0/node_modules/
+/TypeScript/task_0/.eslintrc.js
+/TypeScript/task_0/package-lock.json
+/TypeScript/task_0/package.json
+/TypeScript/task_0/tsconfig.json
+/TypeScript/task_0/webpack.config.js
 /TypeScript/task_1/node_modules/
+/TypeScript/task_1/package-lock.json
+/TypeScript/task_1/package.json
+/TypeScript/task_1/tsconfig.json
+/TypeScript/task_1/webpack.config.js
 /TypeScript/task_2/node_modules/
 /TypeScript/task_3/node_modules/
 /TypeScript/task_4/node_modules/
@@ -9,10 +18,4 @@
 /TypeScript/task_8/node_modules/
 /TypeScript/task_9/node_modules/
 /TypeScript/task_10/node_modules/
-/TypeScript/task_0/node_modules/
-/TypeScript/task_0/.eslintrc.js
-/TypeScript/task_0/package-lock.json
-/TypeScript/task_0/package.json
-/TypeScript/task_0/tsconfig.json
-/TypeScript/task_0/webpack.config.js
 /tsconfig.json
